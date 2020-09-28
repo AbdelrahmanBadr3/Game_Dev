@@ -1,2 +1,3 @@
 Run UDP Server First Then Udp Client then play the first player is Client 
-and after make the move or use power press end turn and backwork is working in Gui game M3   not in the bonus a7na f finals b2a :)
+and after make the move or use power press end turn 
+BackWord button is not working in the netwrok impelementaion but it is working in the normal one
